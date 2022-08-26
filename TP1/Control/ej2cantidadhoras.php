@@ -34,4 +34,4 @@ echo "Cantidad de horas Prog. Dinamica =" . array_sum($sumahoras). "</br>";
 }
 
 ?>
-<a href="ej2.php">Volver a inicio</a>
+<a href="../Vista/ej2.html">Volver a inicio</a>
